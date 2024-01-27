@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Firdaus Zakari. 
+<br>I'm Firdaus Zakari.</br> 
 Currently a computer science student at Ghana Communication Technology University.
 I'm passionate about Programming
 ...and currently a front-end developer
