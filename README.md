@@ -6,7 +6,7 @@
 <br>...and currently a front-end developer</br>
 <br>I also enjoy UI, UX and designing as a whole</br>
 <br>🔭 I’m currently working on an e-commerce website</br>
-<br>🌱 I’m currently learning jQuery</br>
+<br>🌱 I’m learning jQuery and Python now</br>
 
 
 ## 🌐 Socials:
