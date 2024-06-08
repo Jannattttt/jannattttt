@@ -4,9 +4,7 @@
 <br>Currently a computer science student at Ghana Communication Technology University.</br>
 <br>I'm passionate about Programming</br>
 <br>...and currently a front-end developer</br>
-<br>I also enjoy UI, UX and designing as a whole</br>
-<br>🔭 I’m currently working on an e-commerce website</br>
-<br>🌱 I’m learning jQuery and Python now</br>
+<br>I also enjoy UI, UX, and design as a whole</br>
 
 
 ## 🌐 Socials:
